@@ -1,0 +1,2 @@
+# Real-time-Garbage-detection-and-monitoring-system-using-Image-processing-and-deep-learning
+This project develops a real-time garbage detection and monitoring system using image processing and deep learning (YOLOv8). It automatically identifies and classifies waste from live video feeds, enabling efficient tracking and management. The system supports smart and sustainable waste management in urban areas.
