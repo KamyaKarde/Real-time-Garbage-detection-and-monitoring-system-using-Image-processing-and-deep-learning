@@ -1,0 +1,16 @@
+timestamp,video_name,label,confidence,x1,y1,x2,y2,frame_image,crop_image
+2025-10-07 11:28:48,video5,plastic,0.07075206190347672,356,519,394,562,detected_crops\video5_frame30_crop128.jpg,detected_crops\video5_frame30_crop128.jpg
+2025-10-07 11:28:55,video5,plastic,0.08446440100669861,509,337,579,399,detected_crops\video5_frame30_crop349.jpg,detected_crops\video5_frame30_crop349.jpg
+2025-10-07 11:28:59,video4,metal,0.05377349257469177,154,52,224,128,detected_crops\video4_frame30_crop774.jpg,detected_crops\video4_frame30_crop774.jpg
+2025-10-07 11:28:59,video1,metal,0.050409745424985886,406,651,488,684,detected_crops\video1_frame60_crop40.jpg,detected_crops\video1_frame60_crop40.jpg
+2025-10-07 11:28:59,video1,metal,0.050472039729356766,453,631,539,678,detected_crops\video1_frame60_crop55.jpg,detected_crops\video1_frame60_crop55.jpg
+2025-10-07 11:29:36,video6,metal,0.05263521522283554,59,343,128,412,detected_crops\video6_frame90_crop161.jpg,detected_crops\video6_frame90_crop161.jpg
+2025-10-07 11:29:43,video4,metal,0.050932370126247406,67,22,146,68,detected_crops\video4_frame60_crop609.jpg,detected_crops\video4_frame60_crop609.jpg
+2025-10-07 11:29:53,video5,plastic,0.09150386601686478,518,109,570,135,detected_crops\video5_frame30_crop688.jpg,detected_crops\video5_frame30_crop688.jpg
+2025-10-07 11:29:53,video5,plastic,0.08150210231542587,510,109,570,135,detected_crops\video5_frame30_crop688.jpg,detected_crops\video5_frame30_crop688.jpg
+2025-10-07 11:30:19,video5,metal,0.05163923278450966,386,74,491,141,detected_crops\video5_frame30_crop755.jpg,detected_crops\video5_frame30_crop755.jpg
+2025-10-07 11:30:24,video5,plastic,0.14768235385417938,432,143,454,188,detected_crops\video5_frame30_crop781.jpg,detected_crops\video5_frame30_crop781.jpg
+2025-10-07 11:30:24,video5,plastic,0.1136838048696518,422,144,455,188,detected_crops\video5_frame30_crop781.jpg,detected_crops\video5_frame30_crop781.jpg
+2025-10-07 11:30:38,video1,metal,0.05018515884876251,415,603,497,674,detected_crops\video1_frame150_crop101.jpg,detected_crops\video1_frame150_crop101.jpg
+2025-10-07 11:31:00,video4,metal,0.05376559495925903,138,56,209,135,detected_crops\video4_frame90_crop740.jpg,detected_crops\video4_frame90_crop740.jpg
+2025-10-07 11:31:28,video6,metal,0.05263521522283554,59,343,128,412,detected_crops\video6_frame90_crop161.jpg,detected_crops\video6_frame90_crop161.jpg
